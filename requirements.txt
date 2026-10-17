@@ -1,0 +1,1 @@
+Django>=5.1,<6.0\nPillow>=10.4\ngunicorn>=22.0\nwhitenoise>=6.7\ndj-database-url>=2.2\npython-dotenv>=1.0\n
